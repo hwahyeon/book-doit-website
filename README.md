@@ -11,6 +11,7 @@
 > 김윤미
 
 ## 학습 목표
+- HTML, CSS, JavaScript 체계적 복습
 - Ajax 실무 학습
 - 웹 기획 실무 학습
 
