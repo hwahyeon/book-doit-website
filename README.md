@@ -15,6 +15,9 @@
 - Ajax 실무 학습
 - 웹 기획 실무 학습
 
+## 학습 결과
+[결과물 바로가기](https://hwahyeon.github.io/book-doit-website)
+
 ## 학습 내용
 |No|목차|핵심 학습 내용|
 |---|---|---|
